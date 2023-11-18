@@ -1,0 +1,9 @@
+[
+    {
+        "username": "jexawac276@othao.com",
+        "password": "RudderStack@123",
+        "app_url": "https://app.rudderstack.com",
+        "source": "RudderStack",
+        "destination": "RudderStack_Destination"
+    }
+]
